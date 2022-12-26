@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"admin"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DBConnector"},{"p":"<Unnamed>","l":"ksiazka"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"QueryExecutor"},{"p":"<Unnamed>","l":"users"},{"p":"<Unnamed>","l":"wypozyczalnia"}];updateSearchResults();
